@@ -1,3 +1,4 @@
 chapter1.md
 chapter2.md
+chapter2/hello.md
 chapter3.md
